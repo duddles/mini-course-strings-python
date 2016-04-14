@@ -1,0 +1,4 @@
+[submodule "unit-1-python-strings"]
+	path = unit-1-python-strings
+	url = git@github.com:rmotr-curriculum/unit-strings-and-unicode-in-python.git
+	branch = course-mini-course-strings-python
